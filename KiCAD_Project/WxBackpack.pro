@@ -1,4 +1,4 @@
-update=2/4/2015 8:36:43 PM
+update=2/5/2015 10:01:26 PM
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -51,7 +51,7 @@ LibName31=BoschSensortec
 LibName32=MeasurementSpecialties
 [pcbnew]
 version=1
-LastNetListRead=
+LastNetListRead=WxBackpack.net
 UseCmpFile=1
 PadDrill=1.016000000000
 PadDrillOvalY=1.016000000000
@@ -65,7 +65,7 @@ ModuleTextSizeH=1.000000000000
 ModuleTextSizeThickness=0.150000000000
 SolderMaskClearance=0.000000000000
 SolderMaskMinWidth=0.000000000000
-DrawSegmentWidth=0.200000000000
+DrawSegmentWidth=0.500000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
 [pcbnew/libraries]
@@ -89,3 +89,4 @@ LibName16=valves
 LibName17=BoschSensortec
 LibName18=MeasurementSpecialties
 LibName19=Pins
+LibName20=Logo
